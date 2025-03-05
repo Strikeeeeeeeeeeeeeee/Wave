@@ -10,7 +10,7 @@ Get started with Wave Executor in just a few simple steps:
 
 **Keywords:** Roblox executor, script execution tool, modding software, gaming utilities, script engine, performance optimization, advanced scripting 2024.
 
-![Wave Executor Preview](/assets/Wave.gif)
+![Wave Executor Preview](/assets/Wave.webp)
 
 ## Table of Contents
 - [Introduction](#introduction)
